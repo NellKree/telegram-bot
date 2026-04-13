@@ -1,0 +1,5 @@
+aiogram==3.7.0
+python-dotenv==1.0.0
+gdown==5.1.0
+vosk==0.3.45
+requests==2.31.0
