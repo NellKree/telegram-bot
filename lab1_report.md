@@ -1,3 +1,5 @@
+#Видео: 
+https://drive.google.com/file/d/1ntXxXqDxCSsXx1jR1R8Hd_YwaFzv1Rj_/view?usp=sharing
 # Отчёт по лабораторной работе 1
 ## «Создание первого Telegram-бота без программирования»
 
